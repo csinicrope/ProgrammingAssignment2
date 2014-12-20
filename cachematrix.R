@@ -48,7 +48,7 @@ cacheSolve <- function(x, ...) {
         i                       # returns inverse to code
 }
 
-## Test1: Create matrix, then pass
+## Test 1: Create matrix, then pass
 x <- rbind(c(1,2), c(3, 4))
 class(x)
 x
